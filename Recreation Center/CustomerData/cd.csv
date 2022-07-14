@@ -1,0 +1,9 @@
+CustomerName, Address, Category, Date, Day, EntryTime, ExitTime, TotalTime, Rate, TotalPrice
+Gaurab Shrestha, Itahari 5, Adult, 2022-01-02, Sunday, 10:00 AM, 1:00 PM,3,1500,4500
+Dipraz Rai, Itahari 5, Adult, 2022-01-02, Sunday, 10:00 AM, 12:00 PM,2,1000,2000
+Garima Shrestha, Itahari 5, Child, 2022-01-03, Monday, 12:00 PM, 4:00 PM,4,1450,5800
+Abhi Neupane,Dharan, Adult, 2022-01-03, Monday, 10:00 AM, 11:00 AM,1,550,550
+Alisha Rai,Biratnagar, Child, 2022-01-03,Monday, 12:00 PM, 3:00 PM,3,1050,3150
+Group of 15,Tarahara, Group of 15, 2022-01-03, Monday, 10:00 AM, 6:00 PM,8,6000,48000
+Sudarshan Nepal, Itahari 5, Adult, 2022-01-03, Monday, 10:00 AM, 2:00 PM, 4, 2100, 8400
+Gaurab Shrestha, Itahari, Child, 2022-06-28, Tuesday, 10:00 AM, 12:00 PM, 2, 5000, 10000
